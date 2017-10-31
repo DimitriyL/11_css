@@ -1,0 +1,25 @@
+body{
+    background-color: yellow;
+}
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: green;
+    opacity: 0.4;
+    height: 100px;
+}
+
+ul {
+    color: purple;
+}
+
+h2 {
+    text-decoration: line-through;
+}
+
+p {
+    letter-spacing: 10px;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: red;
+    border: 5px solid yellow;
+}
+
+h1 {
+    text-decoration: overline;
+    letter-spacing: 100px;
+}
+
+h3 {
+    letter-spacing: -5px;
+}
+
+ul {
+    color: pink;
+}
+
+p {
+    color: purple;
+    opacity: 0.5;
+    height: 200px;
+}
+
