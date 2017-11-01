@@ -1,0 +1,39 @@
+body {
+    background-color: red;
+}
+
+div {
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.extreme {
+    background-color: goldenrod;
+}
+
+.navzone {
+    background-color: magenta;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.content {
+    letter-spacing: -5px;
+    color: red;
+    background-color: pink;
+}
+
+.prose {
+    letter-spacing: 10px;
+    color: green;
+    text-align: right;
+}
+
+#head1 {
+    background-color: aquamarine; 
+}
+
+#tehlulz {
+    text-decoration: overline;
+    height: 100px;
+}
+
